@@ -1,4 +1,4 @@
-## cvilla87's GitHub Page - HELL YEAH!
+## cvilla87's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/cvilla87/cvilla87.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
